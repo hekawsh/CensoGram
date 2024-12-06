@@ -1,3 +1,3 @@
-Please consider this is not related to censogram by 10ko.
+# Safegram Telegram Client Please consider this is not related to censogram by 10ko.
 Consider this as a placeholder for potential Telegram Client.
 Alpahbetical recap of this name is not my fault...
